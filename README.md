@@ -59,7 +59,7 @@ Reusable tutorials, walkthroughs, and short reference guides:
 ### Getting Started
 ```
 Bash
-git clone [https://github.com/](https://github.com/)<your-username>/bio-ml-playground.git
+git clone [https://github.com/Dskies5i/bio-ml-playground.git
 cd bio-ml-playground
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
